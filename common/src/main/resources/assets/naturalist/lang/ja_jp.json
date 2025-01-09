@@ -1,5 +1,5 @@
 {
-    "itemGroup.naturalist.tab": "ナチュラリスト",
+    "itemGroup.naturalist.tab": "Naturalist",
     "item.naturalist.bug_net": "虫取り網",
     "entity.naturalist.butterfly": "チョウ",
     "item.naturalist.butterfly": "チョウ",
@@ -254,7 +254,7 @@
     "naturalist.subtitles.entity.alligator.egg_break": "アリゲーターの卵が割れる",
     "naturalist.subtitles.entity.alligator.egg_crack": "アリゲーターの卵にひびが入る",
     "naturalist.subtitles.entity.alligator.egg_hatch": "アリゲーターの卵が孵化する",
-    "text.autoconfig.naturalist.title": "ナチュラリスト Config",
+    "text.autoconfig.naturalist.title": "Naturalist Config",
     "text.autoconfig.naturalist.option.bluejaySpawnWeight": "アオカケスのスポーン量",
     "text.autoconfig.naturalist.option.butterflySpawnWeight": "チョウのスポーン量",
     "text.autoconfig.naturalist.option.canarySpawnWeight": "カナリアのスポーン量",
